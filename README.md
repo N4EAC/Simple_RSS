@@ -1,7 +1,8 @@
 # Simple RSS 1.4.2
 
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/e2129c3a-12e5-4345-97e4-cb4b5a63a686" />
-**---------**
+
+**Screenshot:**
 <img width="1004" height="705" alt="image" src="https://github.com/user-attachments/assets/7f5bfc21-9d2e-46ad-89e2-bdbf0be82eb7" />
 
 A compact Windows desktop RSS/Atom reader with selectable visual themes.
