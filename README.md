@@ -53,3 +53,54 @@ Conditional requests reduce unnecessary downloads. When a server returns `304 No
 ## Feed navigation
 
 The five feed entries remain inside a clipped viewport. Use the mouse wheel, touchpad, Page Up/Page Down, Home, or End to scroll long entries. No scrollbar is displayed (that is intentional).
+
+## RSS Feed Sites for Amateur Radio
+
+Below are 10 of the best RSS feeds for amateur radio news, selected to provide broad coverage of the **United States, United Kingdom, Brazil, France, Japan**, plus important international DX and satellite news. These are all well-established sources with active or regularly maintained feeds. ([RSS Database - FeedSpot][1])
+
+| #  | Country          | Source                              | RSS Feed URL                                                                   |
+| -- | ---------------- | ----------------------------------- | ------------------------------------------------------------------------------ |
+| 1  | 🇺🇸 USA         | ARRL News                           | [https://www.arrl.org/arrl.rss](https://www.arrl.org/arrl.rss)                 |
+| 2  | 🇬🇧 UK          | RSGB News                           | [https://rsgb.org/feed/](https://rsgb.org/feed/)                               |
+| 3  | 🇬🇧 UK          | Southgate Amateur Radio News        | [https://www.southgatearc.org/sarc.rss](https://www.southgatearc.org/sarc.rss) |
+| 4  | 🇧🇷 Brazil      | LABRE News                          | [https://www.labre.org.br/feed/](https://www.labre.org.br/feed/)               |
+| 5  | 🇫🇷 France      | REF (Réseau des Émetteurs Français) | [https://www.r-e-f.org/feed/](https://www.r-e-f.org/feed/)                     |
+| 6  | 🇯🇵 Japan       | JARL News                           | [https://www.jarl.org/English/rss.xml](https://www.jarl.org/English/rss.xml)   |
+| 7  | 🌍 International | IARU Region 1 News                  | [https://www.iaru-r1.org/feed/](https://www.iaru-r1.org/feed/)                 |
+| 8  | 🌍 International | AMSAT News                          | [https://www.amsat.org/feed/](https://www.amsat.org/feed/)                     |
+| 9  | 🌍 International | AmateurRadio.com                    | [https://www.amateurradio.com/feed/](https://www.amateurradio.com/feed/)       |
+| 10 | 🌍 International | SWLing Post                         | [https://swling.com/blog/feed/](https://swling.com/blog/feed/)                 |
+
+### Best combination for a desktop RSS reader
+
+If you only subscribe to a handful, I'd recommend these:
+
+* ARRL (US)
+* RSGB (UK)
+* Southgate ARC (international/DX)
+* LABRE (Brazil)
+* REF (France)
+* JARL (Japan)
+* AMSAT
+* AmateurRadio.com
+* IARU Region 1
+* SWLing Post
+
+This mix gives excellent coverage of:
+
+* Regulatory news
+* HF/VHF/UHF operating
+* DXpeditions
+* Contesting
+* Satellites
+* Emergency communications
+* Digital modes
+* Equipment reviews
+* Club news
+* International amateur radio developments
+
+These feeds are among the most commonly referenced by amateur-radio RSS aggregators and club news services. ([hampager.de][2])
+
+[1]: https://rss.feedspot.com/ham_radio_rss_feeds/?utm_source=chatgpt.com "Top 60 Ham Radio RSS Feeds"
+[2]: https://hampager.de/dokuwiki/doku.php?id=usecaseclubnews&utm_source=chatgpt.com "usecaseclubnews [DAPNET DokuWiki]"
+
