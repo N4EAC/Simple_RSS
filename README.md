@@ -101,6 +101,26 @@ This mix gives excellent coverage of:
 
 These feeds are among the most commonly referenced by amateur-radio RSS aggregators and club news services. ([hampager.de][2])
 
+## RSS Feed Sites for US Gov. Scientific Agencies
+
+Here are 10 useful official U.S. government science RSS feeds. I prioritized general science news, research, space, oceans, environmental health, and real-time earth-science information.
+
+#	Agency and feed	RSS feed URL
+1	NASA News Releases	https://www.nasa.gov/news-release/feed/
+2	NASA — Recently Published Content	https://www.nasa.gov/feed/
+3	NASA Technology	https://www.nasa.gov/technology/feed/
+4	NASA Jet Propulsion Laboratory News	https://www.jpl.nasa.gov/feeds/news/
+5	NOAA National Ocean Service News	https://oceanservice.noaa.gov/rss/nosnews.xml
+6	NOAA National Ocean Service Newsroom	https://oceanservice.noaa.gov/newsroom/nosmedia.xml
+7	NOAA Pacific Marine Environmental Laboratory Highlights	https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml
+8	USGS — All Earthquakes, Past Day	https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom
+9	NIEHS News	https://www.niehs.nih.gov/news/newsroom/rssfeed/rss_news.xml
+10	NIEHS Recently Published Research	https://www.niehs.nih.gov/news/newsroom/rssfeed/rss_recently_published_research.xml
+
+NASA officially lists its general, news-release, technology, and other topical feeds. NOAA publishes dedicated National Ocean Service and Pacific Marine Environmental Laboratory feed directories. USGS documents its real-time earthquake Atom feeds, while NIEHS lists separate news and recently published research feeds.
+
+The USGS earthquake entry is an Atom feed, but standard RSS readers normally support Atom without any special configuration.
+
 [1]: https://rss.feedspot.com/ham_radio_rss_feeds/?utm_source=chatgpt.com "Top 60 Ham Radio RSS Feeds"
 [2]: https://hampager.de/dokuwiki/doku.php?id=usecaseclubnews&utm_source=chatgpt.com "usecaseclubnews [DAPNET DokuWiki]"
 
