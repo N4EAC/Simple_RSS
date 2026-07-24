@@ -45,7 +45,7 @@ The installer is created in the `installer` folder and installs under `C:\Progra
 
 ## Compliance and privacy
 
-Simple RSS identifies itself honestly as an RSS/Atom reader. It does not automatically send an email address or a fictitious `From` header. A contact address is sent only after the user explicitly enters one in Setup. This may be required by providers such as SEC.gov.
+Simple RSS identifies itself honestly as an RSS/Atom reader. It does not automatically send an email address or a fictitious `From` header. A contact address is sent only after the user explicitly enters one in Setup. This may be required by providers such as gornment or state sites. Keeping it compliant and legal.
 
 Conditional requests reduce unnecessary downloads. When a server returns `304 Not Modified`, the existing feed remains displayed. When a server supplies a numeric `Retry-After` value with HTTP 429 or 503, Simple RSS delays the next request accordingly.
 
