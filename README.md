@@ -41,11 +41,11 @@ A compact Windows, macOS, and Linux desktop RSS/Atom reader with selectable visu
 - Shows only the five newest entries, with the latest item first
 - Every feed update is clickable and opens in the operating system's default browser
 - Displays the feed-age delta beside the live date/time, based on the newest entry timestamp—not the last reload
-- User-selectable reload intervals: 10 seconds, 15 seconds, 30 seconds, 60 seconds, 1 minute, 5 minutes, or 10 minutes
+- User-selectable reload intervals: 10 seconds, 15 seconds, 30 seconds (default), 1 minute, 5 minutes, or 10 minutes
 - Tiny white LED flashes during the final five seconds before each reload
 - Optional per-feed stale alert: amber after 5 minutes, red after 10 minutes, and double-speed red after 15 minutes
 - Canvas-rendered dot-matrix date, time, and feed-age display; no external digital font is required
-- Honest `SimpleRSS` HTTP User-Agent rather than deceptive browser impersonation
+- Transparent (not a browser emulation) `SimpleRSS` HTTP User-Agent.
 - Optional contact email, transmitted only when the user enters one
 - Conditional HTTP requests using ETag and Last-Modified when supported
 - Respects server Retry-After instructions for HTTP 429 and 503 responses
