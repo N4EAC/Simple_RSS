@@ -6,13 +6,12 @@
 
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/e2129c3a-12e5-4345-97e4-cb4b5a63a686" />
 
-**Screenshot:**
-<img width="1004" height="705" alt="image" src="https://github.com/user-attachments/assets/7f5bfc21-9d2e-46ad-89e2-bdbf0be82eb7" />
-
+**Screenshots:**
+macOS
 ![Simple RSS application screenshot](assets/Screenshot%202026-09-03%20at%203.13.22%E2%80%AFPM.png)
-
+Ubuntu Linux
 ![Simple RSS running on Ubuntu Linux](assets/linuxubuntu_screenshot.png)
-
+Windows
 ![Simple RSS running on Windows](assets/Windows_screenshot.png)
 
 A compact Windows, macOS, and Linux desktop RSS/Atom reader with selectable visual themes.
