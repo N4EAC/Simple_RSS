@@ -9,6 +9,8 @@
 **Screenshot:**
 <img width="1004" height="705" alt="image" src="https://github.com/user-attachments/assets/7f5bfc21-9d2e-46ad-89e2-bdbf0be82eb7" />
 
+![Simple RSS application screenshot](assets/Screenshot%202026-09-03%20at%203.13.22%E2%80%AFPM.png)
+
 A compact Windows, macOS, and Linux desktop RSS/Atom reader with selectable visual themes.
 
 ## Version 1.5 updates
