@@ -39,6 +39,7 @@ This checklist tracks the version 1.5 reliability, compatibility, interface, pac
 
 ## Remaining candidates
 
+- [ ] Fix the missing Ubuntu taskbar/dock icon in a future update by assigning a unique application window class and matching `StartupWMClass` in the Linux desktop launcher. Apply the fix to both `.deb` and `.rpm` packaging; Fedora may share the issue because it uses the same launcher configuration. Verify on Ubuntu and Fedora when available.
 - [ ] Split the UI, feed parsing, networking, settings, and themes into separate modules.
 - [ ] Evaluate a non-administrator, per-user Windows installer mode.
 - [ ] Build and validate the version 1.5 `.rpm` package on Fedora at a later time; this is deferred and is not an immediate release blocker.
