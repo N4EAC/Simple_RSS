@@ -11,6 +11,8 @@
 
 ![Simple RSS application screenshot](assets/Screenshot%202026-09-03%20at%203.13.22%E2%80%AFPM.png)
 
+![Simple RSS running on Ubuntu Linux](assets/linuxubuntu_screenshot.png)
+
 A compact Windows, macOS, and Linux desktop RSS/Atom reader with selectable visual themes.
 
 ## Version 1.5 updates
