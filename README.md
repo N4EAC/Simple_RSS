@@ -7,6 +7,7 @@
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/e2129c3a-12e5-4345-97e4-cb4b5a63a686" />
 
 **Screenshots:**
+<p></p> 
 macOS
 ![Simple RSS application screenshot](assets/Screenshot%202026-09-03%20at%203.13.22%E2%80%AFPM.png)
 Ubuntu Linux
