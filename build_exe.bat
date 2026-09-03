@@ -2,7 +2,10 @@
 setlocal
 cd /d "%~dp0"
 
-py -m pip install --upgrade pyinstaller
+py -m pip install -r requirements-build.txt
+if errorlevel 1 goto :error
+
+py -B -m unittest -v
 if errorlevel 1 goto :error
 
 py -m PyInstaller --noconfirm --clean --onefile --windowed ^
@@ -15,6 +18,8 @@ if errorlevel 1 goto :error
 
 echo.
 echo Build complete. EXE is in the dist folder.
+echo Launching Simple RSS for testing...
+start "" "dist\Simple RSS.exe"
 pause
 exit /b 0
 

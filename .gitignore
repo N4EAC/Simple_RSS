@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+*.py[cod]
+build/
+dist/
+installer/
+*.spec

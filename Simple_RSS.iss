@@ -1,5 +1,5 @@
 #define MyAppName "Simple RSS"
-#define MyAppVersion "1.4.2"
+#define MyAppVersion "1.5"
 #define MyAppPublisher "Eduardo A. de Carvalho"
 #define MyAppExeName "Simple RSS.exe"
 
@@ -11,7 +11,7 @@ AppPublisher={#MyAppPublisher}
 DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 OutputDir=installer
-OutputBaseFilename=Simple_RSS_Setup_v1.4.2
+OutputBaseFilename=Simple_RSS_Setup_v1.5
 Compression=lzma2
 SolidCompression=yes
 WizardStyle=modern
