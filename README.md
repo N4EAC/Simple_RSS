@@ -9,6 +9,7 @@
 **Screenshots:**
 <p></p> 
 macOS
+
 ![Simple RSS application screenshot](assets/Screenshot%202026-09-03%20at%203.13.22%E2%80%AFPM.png)
 Ubuntu Linux
 ![Simple RSS running on Ubuntu Linux](assets/linuxubuntu_screenshot.png)
